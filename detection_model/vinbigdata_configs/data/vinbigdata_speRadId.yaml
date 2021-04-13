@@ -1,0 +1,16 @@
+# train and val datasets (json file in coco annotation format)
+train_ann: data/vinbigdata/annotations/new_Kfold_annotations/{}/vinbig_train_fold{}.json # training annotation json file
+train_img_root: data/vinbigdata/images/train  # img root path to training images
+val_ann: data/vinbigdata/annotations/new_Kfold_annotations/{}/vinbig_val_fold{}.json # validation annotation file
+val_img_root: data/vinbigdata/images/train  # img root path to validation images
+
+test_ann: data/vinbigdata/annotations/vinbig_test_cls.json  # testing annotations file
+
+# number of classes
+nc: 14
+
+# class names
+names: ['Aortic enlargement', 'Atelectasis', 'Calcification', 'Cardiomegaly',
+        'Consolidation', 'ILD', 'Infiltration', 'Lung Opacity', 'Nodule/Mass',
+        'Other lesion', 'Pleural effusion', 'Pleural thickening', 'Pneumothorax',
+        'Pulmonary fibrosis']
