@@ -1,3 +1,5 @@
+kaggle VinBigData Chest X-ray Abnormalities Detection 3rd place code
+
 Hello!
 
 Below you can find a outline of how to reproduce my solution for the <VinBigData Chest X-ray Abnormalities Detection> competition.
