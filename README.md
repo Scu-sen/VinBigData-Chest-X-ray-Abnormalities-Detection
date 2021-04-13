@@ -3,7 +3,7 @@ kaggle VinBigData Chest X-ray Abnormalities Detection 3rd place code
 Hello!
 
 Below you can find a outline of how to reproduce my solution for the <VinBigData Chest X-ray Abnormalities Detection> competition.
-If you run into any trouble with the setup/code or have any questions please contact me at <zehuigong@foxmail.com>
+If you run into any trouble with the setup/code or have any questions please contact me at <ys810137152@gmail.com>
 
 #ARCHIVE CONTENTS
 - detection_model: this directory contains corresponding code and pre-trained weights to reproduce the results of
